@@ -1,0 +1,6 @@
+export const API_START = 'API_START'
+export const API_SUCCESS = 'API_SUCCESS'
+export const API_FAILURE = 'API_FAILURE'
+export const API_ADDING = 'API_ADDING_SMURF'
+export const API_ADD = 'API_ADD_SMURF'
+export const API_ADD_SUCCESS = 'ADD_SMURF_SUCCESS'
